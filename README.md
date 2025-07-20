@@ -22,3 +22,10 @@ Ein mit Lepra infizierter Ritter der Guten Nacht, auf ewig verdammt zur Jagd und
 
 Ein Drache wird zur Beute. Ihr Verfolger, ein Ritter, dessen Schritte Stein brechen lassen, der nicht aufhören wird – nicht aufhören \*kann\*. Während sie aufeinandertreffen, Feuer und Stahl, Schuppen und Fleisch tauschen, gibt es eine Liebe, die nur Raubtiere mit ihrer Beute teilen können: Grenzenlos. Unversöhnlich. Ewig.
 
+
+---
+### Mehr über Sir Pryonn
+
+*   [Seine vollständige Biografie](biografie.md)
+*   [Seine Eigenschaften & Merkmale](eigenschaften.txt)
+*   [Aufzeichnungen seiner Abenteuer](abenteuer.md)
